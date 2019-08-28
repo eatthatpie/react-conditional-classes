@@ -1,0 +1,19 @@
+{
+    "name": "react-conditional-classes",
+    "version": "0.1.0",
+    "description": "Vue-like conditional classes for react.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/eatthatpie/react-conditional-classes.git"
+    },
+    "author": "eatthatpie <tomek.pugn@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/eatthatpie/react-conditional-classes/issues"
+    },
+    "homepage": "https://github.com/eatthatpie/react-conditional-classes",
+    "dependencies": {
+      "react": "^16.9.0"
+    }
+}
