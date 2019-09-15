@@ -1,6 +1,6 @@
 {
     "name": "react-conditional-classes",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Vue-like conditional classes for react.",
     "main": "index.js",
     "repository": {
